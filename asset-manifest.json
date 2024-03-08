@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/pynchercouk/static/css/main.21a4d96e.css",
-    "main.js": "/pynchercouk/static/js/main.13dbee1b.js",
+    "main.css": "/pynchercouk/static/css/main.3e3ccb64.css",
+    "main.js": "/pynchercouk/static/js/main.10106a6d.js",
     "static/js/453.02bf3452.chunk.js": "/pynchercouk/static/js/453.02bf3452.chunk.js",
     "static/media/pyncher.jpeg": "/pynchercouk/static/media/pyncher.cb6734013fd3f1e67799.jpeg",
     "index.html": "/pynchercouk/index.html",
-    "main.21a4d96e.css.map": "/pynchercouk/static/css/main.21a4d96e.css.map",
-    "main.13dbee1b.js.map": "/pynchercouk/static/js/main.13dbee1b.js.map",
+    "main.3e3ccb64.css.map": "/pynchercouk/static/css/main.3e3ccb64.css.map",
+    "main.10106a6d.js.map": "/pynchercouk/static/js/main.10106a6d.js.map",
     "453.02bf3452.chunk.js.map": "/pynchercouk/static/js/453.02bf3452.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.21a4d96e.css",
-    "static/js/main.13dbee1b.js"
+    "static/css/main.3e3ccb64.css",
+    "static/js/main.10106a6d.js"
   ]
 }
