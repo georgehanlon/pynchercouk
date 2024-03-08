@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pynchercouk/static/css/main.f855e6bc.css",
+    "main.js": "/pynchercouk/static/js/main.b7888268.js",
+    "static/js/453.02bf3452.chunk.js": "/pynchercouk/static/js/453.02bf3452.chunk.js",
+    "static/media/logo.svg": "/pynchercouk/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pynchercouk/index.html",
+    "main.f855e6bc.css.map": "/pynchercouk/static/css/main.f855e6bc.css.map",
+    "main.b7888268.js.map": "/pynchercouk/static/js/main.b7888268.js.map",
+    "453.02bf3452.chunk.js.map": "/pynchercouk/static/js/453.02bf3452.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b7888268.js"
+  ]
+}
