@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/pynchercouk/static/css/main.f855e6bc.css",
-    "main.js": "/pynchercouk/static/js/main.a05478ce.js",
+    "main.css": "/pynchercouk/static/css/main.1e2eae05.css",
+    "main.js": "/pynchercouk/static/js/main.4a88bcfc.js",
     "static/js/453.02bf3452.chunk.js": "/pynchercouk/static/js/453.02bf3452.chunk.js",
+    "static/media/pyncher.jpeg": "/pynchercouk/static/media/pyncher.cb6734013fd3f1e67799.jpeg",
     "index.html": "/pynchercouk/index.html",
-    "main.f855e6bc.css.map": "/pynchercouk/static/css/main.f855e6bc.css.map",
-    "main.a05478ce.js.map": "/pynchercouk/static/js/main.a05478ce.js.map",
+    "main.1e2eae05.css.map": "/pynchercouk/static/css/main.1e2eae05.css.map",
+    "main.4a88bcfc.js.map": "/pynchercouk/static/js/main.4a88bcfc.js.map",
     "453.02bf3452.chunk.js.map": "/pynchercouk/static/js/453.02bf3452.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.a05478ce.js"
+    "static/css/main.1e2eae05.css",
+    "static/js/main.4a88bcfc.js"
   ]
 }
